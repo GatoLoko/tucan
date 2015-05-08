@@ -1,0 +1,1 @@
+Tucan Manager is a free file sharing application designed for 1-Click Hosters. Fast and lightweight, Tucan is fully open-source and compatible with Windows, GNU/Linux, and MacOSX.
